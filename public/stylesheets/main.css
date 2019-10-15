@@ -1,0 +1,17 @@
+#commentbutton {
+	font-color: white;
+}
+
+
+.card img {
+	width: 100%;
+	overflow:hidden;
+}
+
+#editbutton {
+	color: white;
+}
+
+#delete-form {
+	display: inline!important;
+}
